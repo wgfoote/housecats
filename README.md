@@ -10,7 +10,7 @@ devtools::install_github( "wgfoote/housecats" )
 ```
 ## Example scripts
 
-Here is pivot table using the **tidyverse** package to make a query about reasonable prices and square footage in neighborhood. One might imagine visualizers such as in this set of [shiny workbook](https://wgfoote.shinyapps.io/finalytics-livesession-1/#section-two-plots).
+Here is pivot table using the **tidyverse** package to make a query about reasonable prices and square footage in neighborhood. One might imagine visualizers such as in this [shiny workbook](https://wgfoote.shinyapps.io/finalytics-livesession-1/#section-two-plots).
 
 ```
 library(housecats)
